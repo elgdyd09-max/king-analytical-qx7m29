@@ -1,4 +1,4 @@
-const CACHE = 'king-analytical-v2';
+const CACHE = 'king-analytical-v3';
 const ASSETS = [
   './',
   './index.html',
