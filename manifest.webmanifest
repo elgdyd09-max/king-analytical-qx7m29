@@ -1,0 +1,16 @@
+{
+  "name": "كينج التحليلي",
+  "short_name": "كينج التحليلي",
+  "description": "اكتب توقعك للماتشات والكورة توصله للكينج.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2ee",
+  "theme_color": "#1d6a3a",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
