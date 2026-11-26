@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.elgdyd09_max.twa",
+        "sha256_cert_fingerprints": ["DA:65:DA:B0:61:CD:68:59:A2:12:47:A9:C2:9B:31:C1:E3:99:7F:4E:54:24:A2:22:BF:D9:9A:ED:FA:F5:DD:99"]
+      }
+    }]
